@@ -1,3 +1,3 @@
 # mysort
 this is a sorting algorithm
-hey I am indra kumar mhaski and i am learning git hub
+and I am going to add this line via my to-edit branch 
