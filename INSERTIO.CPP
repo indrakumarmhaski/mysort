@@ -7,7 +7,7 @@ int arr[30000];
 int i,j,key;
 int n=30000;
 
-void insort()
+void insort() //Comment useing master brance
 {
    for(j=1;j<n;j++)
    {
