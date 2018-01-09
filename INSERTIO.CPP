@@ -13,7 +13,7 @@ void insort()
    {
        key=arr[j];
        i=j-1;
-	 while(i>=0 && arr[i]>key)
+	 while(i>=0 && arr[i]>key)  //This is while loop
 	 {
 	    arr[i+1]=arr[i];
 	    i--;
